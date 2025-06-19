@@ -7,8 +7,7 @@ __all__ = ['hexdump_line', 'hexdump', 'hexdiff', 'HexIntArray']
 
 # %% ../nbs/01_hexdump.ipynb 3
 import ctypes
-from collections import UserList
-from .hexint import hexint, asciiint, HexInt, NamedInt, ctypes_int_types, ctypes_signed_types
+from .hexint import hexint, asciiint, ctypes_int_types, ctypes_signed_types
 from .utils import colored, batched
 
 # %% ../nbs/01_hexdump.ipynb 4
