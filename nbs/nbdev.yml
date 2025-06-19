@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pretty-ctypes"
+  site-url: "https://xl0.github.io/pretty-ctypes"
+  description: "Lets you visualize and compare nested C structures and arrays in Python"
+  repo-branch: master
+  repo-url: "https://github.com/xl0/pretty-ctypes"
