@@ -18,5 +18,6 @@ website:
     search: true
   sidebar:
     style: floating
-
+    
+default-image-extension: ""
 metadata-files: [nbdev.yml, sidebar.yml]
